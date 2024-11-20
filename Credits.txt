@@ -1,0 +1,7 @@
+Here are all the sources for the various image files used in this mod along with the.atlas file:
+
+1. Serbian flag: https://thenounproject.com/search/?q=serbia&i=2615373 by Xinh Studio
+2. Hajduk saber: https://thenounproject.com/search/?q=saber&i=3672505 by Jan Wagner
+3. Fitiljaca: https://thenounproject.com/search/?q=musket&i=2349021 by Cédric Villain
+
+For help with the Hajduk's unique: AnuhimGod from the UnCiv Discord

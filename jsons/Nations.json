@@ -1,0 +1,29 @@
+[
+  {
+		"name": "Serbia",
+		"leaderName": "Pavle I",
+		"adjective": ["Serbian"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "May God be with us, all hail Stefan the First-Crowned, King of Serbia! Great and holy Serbia had arisen! No longer are we just the Grand Principality of Serbia. Nay, you are a king! We have a long road ahead of us! We will supplant Byzantium!",
+		"startIntroPart2": "Your Royal Highness, Serbia calls upon you to lead it to greatness and glory! Will you make Serbia great? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "Your lands will make a glorious addition to the kingdom of Serbia!",
+		"attacked": "Submit or die!",
+		"defeated": "Serbia has fallen.",
+		"introduction": "Greetings from Rashka.",
+		"neutralHello": "Hello.",
+		"hateHello": "What is it?",
+		"tradeRequest": "You can trade with us.",
+		"outerColor": [109,2,0],
+		"innerColor": [255,255,255],
+	        "favoredReligion": "Christianity",
+		"uniqueName": "Serbian Glory",
+		"uniques": ["[+1 Happiness] from all [Production] buildings","[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced",
+			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced","[+1 Gold] per every [10] [Gold] <after discovering [Animal Husbandry]>","[+1 Piety] per every [10] [Gold] <after discovering [Animal Husbandry]>","[-50]% Unhappiness from [Population] [in all cities]","[+30]% Strength <vs [City-States]>","[+1] Sight <for [{Military} {Land}] units>","[-50]% maintenance costs <for [Land] units>","No movement cost to pillage <for [Melee] units>",
+		"cities": ["Beograd","Novi Sad","Pancevo","Pozarevac","Zajecar","Uzice","Leskovac","Valjevo","Pristina","Djakovica",
+			"Pec","Prizren","Mitrovica","Morava","Sabac","Cacak","Nis","Pirot","Smederevo","Jagodina",
+			"Vranje","Krusevac","Raska","Nis","Dmitrovica","Prokuplje","Vucitrn","Debrc","Skopje",
+			"Prilep","Kumanovo","Presevo","Ostrovica","Prijepolje","Brodarevo","Priboj","Kratovo","Hvosno",]
+	},
+]
+
